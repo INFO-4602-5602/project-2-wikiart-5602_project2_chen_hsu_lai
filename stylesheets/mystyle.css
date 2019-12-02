@@ -1,0 +1,110 @@
+.icon {
+	font-size: large;
+	margin: 10px 10px 10px 0px;
+}
+
+.header {
+	text-align:center;
+}
+
+.profile {
+	width:65%;
+}
+
+.pub {
+	margin: 0 0px 7px 15px;
+}
+
+.details {
+	color: #20B2AA;
+	text-decoration: none;
+	font-size: 11px;
+}
+
+.summary {
+  margin: 10px 0px;
+}
+
+b {
+  font-weight:800;
+}
+
+body {
+	background-color: #f6f6f6;
+	color: #474B4E; 
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+	font-weight: 550;
+	color: #0069B4;
+}
+
+a:hover {
+	font-weight: 650;
+}
+
+body a.label-background:hover {
+  font-weight: 650;
+  color: #474B4E;
+}
+
+.label-background {
+  width: fit-content;
+  display: inline;
+  padding: 4px 6px;
+  border-radius: 5px;
+  color: #474B4E;
+  margin-right: 5px;
+}
+
+.label-dot {
+  font-size: 5px;
+  vertical-align: middle;
+  padding-right: 5px;	
+}
+
+.paper-background {
+  background-color: #E5EFFF;
+  border: 1px solid #E5EFFF;
+}
+
+.paper-dot {
+  color: #87B7FF;
+}
+
+.website-background {
+  background-color: #efdef7;
+  border: 1px solid #efdef7;
+}
+
+.website-dot {
+  color: #845998;
+}
+
+.slides-background {
+  background-color: #FEEEE1;
+  border: 1px solid #FEEEE1;
+}
+
+.slides-dot {
+  color: #FFB273;
+}
+
+.poster-background {
+  background-color: #FEF7E1;
+  border: 1px solid #FEF7E1;
+}
+
+.poster-dot {
+  color: #EDCB5E;
+}
+
+.talk-background {
+  background-color: #DFF7F6;
+  border: 1px solid #DFF7F6;
+}
+
+.talk-dot {
+  color: #79D3CF;
+}
