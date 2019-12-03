@@ -180,7 +180,7 @@ img ,tr{
 page-break-inside:avoid}
 
 img{
-max-width:100%!important}
+height: 100%;}
 
 h2 ,h3 ,p{
 orphans:3;
