@@ -1,0 +1,167 @@
+.news-li{
+	font-size: 18px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.faq-list{
+	font-size: 16px;
+	margin-top: 20px;
+}
+
+.q-li, .a-li{
+	
+}
+
+.q-li{
+	font-weight: bold;
+}
+
+.a-li{
+	margin-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+html, body, div{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.example-img{
+	 max-width:310px;
+	 max-height:280px;
+	 display: block;
+	 text-align: center;
+	 margin-left: auto;
+	 margin-right: auto;
+	 padding: 5px;
+}
+
+.example-seq-img{
+	max-width: 190px;
+	max-height: 280px;
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.example-story-img{
+	max-width: 200px;
+	max-height: 280px;
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.img-td{
+	text-align: center; 
+}
+
+.text-td{
+	font-size: 16px;
+}
+
+.nav{
+	margin-top: 30px;
+}
+
+.text-bold{
+	font-weight: bold;
+}
+
+.text-header{
+	text-align: center
+}
+
+.profile-div{
+	font-size: 12px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.profile-name{
+	margin-top: 15px;
+}
+
+.profile-img{
+	
+	height: 150px;
+	max-width: 180px;
+}
+.profile-row{
+	
+}
+
+nav{
+	font-weight: bold;
+}
+
+.section-title{
+	margin-bottom: 20px;
+}
+
+#paper-screenshot{
+	margin-left: auto;
+	margin-right: auto;
+	max-height: 260px;
+	text-align: center;
+	box-shadow: 5px 5px 5px #999;
+	border: 2px #999 solid;
+}
+
+#download-paper-sec{
+	
+}
+
+.cc-span{
+	/*background-color: #f2f2f2;*/
+	padding: 5px 5px 5px 5px;
+	/*border-radius: 5px;*/
+}
+
+.example-section{
+	border: #d9be8c solid 1px;
+	margin-top: 25px;
+	margin-bottom: 15px;
+    border-radius: 4px;
+}
+
+.card{
+	font-size: 18px
+}
+
+.card-header{
+	font-weight: bold;
+	padding: 10px 10px;
+	border-radius: 10px;
+	background-color: rgba(0,0,0,.03);
+	border-bottom: 1px solid rgba(0,0,0,.125);
+	box-sizing: border-box;
+
+}
+.card-block{
+	padding: 10px 10px;
+	border-radius: 10px;
+	background-color: rgba(172, 172, 172, 0.03);
+	border-bottom: 1px solid rgba(0,0,0,.125);
+	box-sizing: border-box;
+}
+
+.col-lg-6.news{
+	border: #d9be8c solid 1px;
+	margin-top:0px;
+	margin-bottom: 15px;
+    border-radius: 4px;
+}
+
+.col-lg-8.nav{
+	vertical-align: bottom
+}
+
+h4.mb-0{
+	font-weight: bold;
+}
