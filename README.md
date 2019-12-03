@@ -5,5 +5,5 @@
 Chao-Chun Hsu, Vivian Lai, Yichen Wang
 
 ## Team members
-everythins is in main.html.
+everything is in `main.html`.
 
