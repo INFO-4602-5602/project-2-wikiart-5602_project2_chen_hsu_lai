@@ -77,7 +77,7 @@ html, body, div{
 }
 
 .profile-div{
-	font-size: 12px;
+	font-size: 18px;
 	text-align: center;
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -86,6 +86,8 @@ html, body, div{
 .profile-name{
 	margin-top: 15px;
 }
+
+
 
 .profile-img{
 	
