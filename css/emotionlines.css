@@ -87,7 +87,14 @@ html, body, div{
 	margin-top: 15px;
 }
 
+.imgContainer{
+	overflow:auto;
+  }
 
+#imgContainer img{
+	vertical-align: middle;
+	width: auto;
+  }
 
 .profile-img{
 	
